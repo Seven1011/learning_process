@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/01Hust/01Hust.iml" filepath="$PROJECT_DIR$/01Hust/01Hust.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02ListAndSet/02ListAndSet.iml" filepath="$PROJECT_DIR$/02ListAndSet/02ListAndSet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03Map/03Map.iml" filepath="$PROJECT_DIR$/03Map/03Map.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04FileAndRecursion/04FileAndRecursion.iml" filepath="$PROJECT_DIR$/04FileAndRecursion/04FileAndRecursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05IOAndProperties/05IOAndProperties.iml" filepath="$PROJECT_DIR$/05IOAndProperties/05IOAndProperties.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06Review/06Review.iml" filepath="$PROJECT_DIR$/06Review/06Review.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javalearn.iml" filepath="$PROJECT_DIR$/javalearn.iml" />
+    </modules>
+  </component>
+</project>
