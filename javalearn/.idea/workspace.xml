@@ -5,120 +5,131 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0a3ca1d0-2d56-4ea5-aa45-7fec659bd9e4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01HuaKe/01HuaKe.iml" beforeDir="false" afterPath="$PROJECT_DIR$/01Hust/01Hust.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01HuaKe/src/Demo1Lambda/Demo01Runnable.java" beforeDir="false" afterPath="$PROJECT_DIR$/01Hust/src/Demo1Lambda/Demo01Runnable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01HuaKe/src/Demo1Lambda/Demo02Lambda.java" beforeDir="false" afterPath="$PROJECT_DIR$/01Hust/src/Demo1Lambda/Demo02Lambda.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01HuaKe/src/Demo1Lambda/RunnableImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/01Hust/src/Demo1Lambda/RunnableImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01HuaKe/src/jihe/Demo01Collection.java" beforeDir="false" afterPath="$PROJECT_DIR$/01Hust/src/jihe/Demo01Collection.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Demo06Review/Demo06Review.iml" beforeDir="false" afterPath="$PROJECT_DIR$/06Review/06Review.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Demo06Review/src/Day02/demo00_反馈和回顾/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/06Review/src/Day02/demo00_反馈和回顾/Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Demo06Review/src/Day02/demo00_反馈和回顾/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/06Review/src/Day02/demo00_反馈和回顾/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Demo06Review/src/Day02/demo00_反馈和回顾/TestDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/06Review/src/Day02/demo00_反馈和回顾/TestDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Demo06Review/src/Day02/demo01_复习子父类/ExtendDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/06Review/src/Day02/demo01_复习子父类/ExtendDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Demo06Review/src/Day02/demo01_复习子父类/Fu.java" beforeDir="false" afterPath="$PROJECT_DIR$/06Review/src/Day02/demo01_复习子父类/Fu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Demo06Review/src/Day02/demo01_复习子父类/Zi.java" beforeDir="false" afterPath="$PROJECT_DIR$/06Review/src/Day02/demo01_复习子父类/Zi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Demo06Review/src/Day02/demo02_继承中方法的重写/ExtendMethodOverrideDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/06Review/src/Day02/demo02_继承中方法的重写/ExtendMethodOverrideDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Demo06Review/src/Day02/demo02_继承中方法的重写/Fu.java" beforeDir="false" afterPath="$PROJECT_DIR$/06Review/src/Day02/demo02_继承中方法的重写/Fu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Demo06Review/src/Day02/demo02_继承中方法的重写/Zi.java" beforeDir="false" afterPath="$PROJECT_DIR$/06Review/src/Day02/demo02_继承中方法的重写/Zi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Demo06Review/src/Day02/demo03_方法重写的引用_手机案例/AndroidPhone.java" beforeDir="false" afterPath="$PROJECT_DIR$/06Review/src/Day02/demo03_方法重写的引用_手机案例/AndroidPhone.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Demo06Review/src/Day02/demo03_方法重写的引用_手机案例/Phone.java" beforeDir="false" afterPath="$PROJECT_DIR$/06Review/src/Day02/demo03_方法重写的引用_手机案例/Phone.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Demo06Review/src/Day02/demo03_方法重写的引用_手机案例/TestDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/06Review/src/Day02/demo03_方法重写的引用_手机案例/TestDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Demo06Review/src/Day02/demo04_总结this和super/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/06Review/src/Day02/demo04_总结this和super/Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Demo06Review/src/Day02/demo04_总结this和super/ExtendsDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/06Review/src/Day02/demo04_总结this和super/ExtendsDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Demo06Review/src/Day02/demo04_总结this和super/Fu.java" beforeDir="false" afterPath="$PROJECT_DIR$/06Review/src/Day02/demo04_总结this和super/Fu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Demo06Review/src/Day02/demo04_总结this和super/Pig.java" beforeDir="false" afterPath="$PROJECT_DIR$/06Review/src/Day02/demo04_总结this和super/Pig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Demo06Review/src/Day02/demo04_总结this和super/Zi.java" beforeDir="false" afterPath="$PROJECT_DIR$/06Review/src/Day02/demo04_总结this和super/Zi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Demo06Review/src/Day02/demo05_抽象类的介绍/AbstractClassDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/06Review/src/Day02/demo05_抽象类的介绍/AbstractClassDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Demo06Review/src/Day02/demo05_抽象类的介绍/BanTeacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/06Review/src/Day02/demo05_抽象类的介绍/BanTeacher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Demo06Review/src/Day02/demo05_抽象类的介绍/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/06Review/src/Day02/demo05_抽象类的介绍/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Demo06Review/src/Day02/demo05_抽象类的介绍/HelpTeacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/06Review/src/Day02/demo05_抽象类的介绍/HelpTeacher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Demo06Review/src/Day02/demo05_抽象类的介绍/Teacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/06Review/src/Day02/demo05_抽象类的介绍/Teacher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Demo06Review/src/Day02/demo06_案例实现/Android.java" beforeDir="false" afterPath="$PROJECT_DIR$/06Review/src/Day02/demo06_案例实现/Android.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Demo06Review/src/Day02/demo06_案例实现/Developer.java" beforeDir="false" afterPath="$PROJECT_DIR$/06Review/src/Day02/demo06_案例实现/Developer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Demo06Review/src/Day02/demo06_案例实现/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/06Review/src/Day02/demo06_案例实现/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Demo06Review/src/Day02/demo06_案例实现/HardRepair.java" beforeDir="false" afterPath="$PROJECT_DIR$/06Review/src/Day02/demo06_案例实现/HardRepair.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Demo06Review/src/Day02/demo06_案例实现/JavaEE.java" beforeDir="false" afterPath="$PROJECT_DIR$/06Review/src/Day02/demo06_案例实现/JavaEE.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Demo06Review/src/Day02/demo06_案例实现/NetRepair.java" beforeDir="false" afterPath="$PROJECT_DIR$/06Review/src/Day02/demo06_案例实现/NetRepair.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Demo06Review/src/Day02/demo06_案例实现/Repair.java" beforeDir="false" afterPath="$PROJECT_DIR$/06Review/src/Day02/demo06_案例实现/Repair.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Demo06Review/src/Day02/demo06_案例实现/TestDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/06Review/src/Day02/demo06_案例实现/TestDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Demo06Review/src/Day02/dmeo07_案例补充/Plane.java" beforeDir="false" afterPath="$PROJECT_DIR$/06Review/src/Day02/dmeo07_案例补充/Plane.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Demo06Review/src/Day02/dmeo07_案例补充/Soldier.java" beforeDir="false" afterPath="$PROJECT_DIR$/06Review/src/Day02/dmeo07_案例补充/Soldier.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Demo06Review/src/Day02/dmeo07_案例补充/Tank.java" beforeDir="false" afterPath="$PROJECT_DIR$/06Review/src/Day02/dmeo07_案例补充/Tank.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Demo06Review/src/Day02/dmeo07_案例补充/TestDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/06Review/src/Day02/dmeo07_案例补充/TestDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Demo06Review/src/day03/demo00_复习/TestDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/06Review/src/day03/demo00_复习/TestDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Demo06Review/src/day03/demo01_接口的介绍/InterfaceDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/06Review/src/day03/demo01_接口的介绍/InterfaceDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Demo06Review/src/day03/demo01_接口的介绍/MyInter01.java" beforeDir="false" afterPath="$PROJECT_DIR$/06Review/src/day03/demo01_接口的介绍/MyInter01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Demo06Review/src/day03/demo01_接口的介绍/MyInter02.java" beforeDir="false" afterPath="$PROJECT_DIR$/06Review/src/day03/demo01_接口的介绍/MyInter02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Demo06Review/src/day03/demo01_接口的介绍/MyInter03.java" beforeDir="false" afterPath="$PROJECT_DIR$/06Review/src/day03/demo01_接口的介绍/MyInter03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Demo06Review/src/day03/demo01_接口的介绍/MyclassA.java" beforeDir="false" afterPath="$PROJECT_DIR$/06Review/src/day03/demo01_接口的介绍/MyclassA.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Demo06Review/src/day03/demo01_接口的介绍/MyclassB.java" beforeDir="false" afterPath="$PROJECT_DIR$/06Review/src/day03/demo01_接口的介绍/MyclassB.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Demo06Review/src/day03/demo01_接口的介绍/MyclassC.java" beforeDir="false" afterPath="$PROJECT_DIR$/06Review/src/day03/demo01_接口的介绍/MyclassC.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Demo06Review/src/day03/demo03_接口和抽象类的区别/AbstractDog.java" beforeDir="false" afterPath="$PROJECT_DIR$/06Review/src/day03/demo03_接口和抽象类的区别/AbstractDog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Demo06Review/src/day03/demo03_接口和抽象类的区别/AbstractInterfaceDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/06Review/src/day03/demo03_接口和抽象类的区别/AbstractInterfaceDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Demo06Review/src/day03/demo03_接口和抽象类的区别/AbstractPig.java" beforeDir="false" afterPath="$PROJECT_DIR$/06Review/src/day03/demo03_接口和抽象类的区别/AbstractPig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Demo06Review/src/day03/demo03_接口和抽象类的区别/SuperDog.java" beforeDir="false" afterPath="$PROJECT_DIR$/06Review/src/day03/demo03_接口和抽象类的区别/SuperDog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Demo06Review/src/day03/demo03_接口和抽象类的区别/SuperPig.java" beforeDir="false" afterPath="$PROJECT_DIR$/06Review/src/day03/demo03_接口和抽象类的区别/SuperPig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Demo06Review/src/day03/demo04_多态/DuoTaiDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/06Review/src/day03/demo04_多态/DuoTaiDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Demo06Review/src/day03/demo05_多态中的注意事项/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/06Review/src/day03/demo05_多态中的注意事项/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Demo06Review/src/day03/demo05_多态中的注意事项/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/06Review/src/day03/demo05_多态中的注意事项/Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Demo06Review/src/day03/demo05_多态中的注意事项/DuoTaiDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/06Review/src/day03/demo05_多态中的注意事项/DuoTaiDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Demo06Review/src/day03/demo06_多态的好处和弊端/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/06Review/src/day03/demo06_多态的好处和弊端/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Demo06Review/src/day03/demo06_多态的好处和弊端/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/06Review/src/day03/demo06_多态的好处和弊端/Cat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Demo06Review/src/day03/demo06_多态的好处和弊端/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/06Review/src/day03/demo06_多态的好处和弊端/Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Demo06Review/src/day03/demo06_多态的好处和弊端/DuoTaiDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/06Review/src/day03/demo06_多态的好处和弊端/DuoTaiDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Demo06Review/src/day03/demo06_多态的好处和弊端/Pig.java" beforeDir="false" afterPath="$PROJECT_DIR$/06Review/src/day03/demo06_多态的好处和弊端/Pig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Demo06Review/src/day03/demo06_多态的好处和弊端/Tiger.java" beforeDir="false" afterPath="$PROJECT_DIR$/06Review/src/day03/demo06_多态的好处和弊端/Tiger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Demo06Review/src/day03/demo07_向上向下转型/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/06Review/src/day03/demo07_向上向下转型/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Demo06Review/src/day03/demo07_向上向下转型/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/06Review/src/day03/demo07_向上向下转型/Cat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Demo06Review/src/day03/demo07_向上向下转型/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/06Review/src/day03/demo07_向上向下转型/Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Demo06Review/src/day03/demo07_向上向下转型/DuoTaiDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/06Review/src/day03/demo07_向上向下转型/DuoTaiDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Demo06Review/src/day03/demo08_笔记本案例初步实现/Computer.java" beforeDir="false" afterPath="$PROJECT_DIR$/06Review/src/day03/demo08_笔记本案例初步实现/Computer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Demo06Review/src/day03/demo08_笔记本案例初步实现/ComputerDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/06Review/src/day03/demo08_笔记本案例初步实现/ComputerDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Demo06Review/src/day03/demo08_笔记本案例初步实现/Mouse.java" beforeDir="false" afterPath="$PROJECT_DIR$/06Review/src/day03/demo08_笔记本案例初步实现/Mouse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Demo06Review/src/day03/demo09_笔记本案例最后实现/Computer.java" beforeDir="false" afterPath="$PROJECT_DIR$/06Review/src/day03/demo09_笔记本案例最后实现/Computer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Demo06Review/src/day03/demo09_笔记本案例最后实现/ComputerDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/06Review/src/day03/demo09_笔记本案例最后实现/ComputerDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Demo06Review/src/day03/demo09_笔记本案例最后实现/KeyBoard.java" beforeDir="false" afterPath="$PROJECT_DIR$/06Review/src/day03/demo09_笔记本案例最后实现/KeyBoard.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Demo06Review/src/day03/demo09_笔记本案例最后实现/Mouse.java" beforeDir="false" afterPath="$PROJECT_DIR$/06Review/src/day03/demo09_笔记本案例最后实现/Mouse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Demo06Review/src/day03/demo09_笔记本案例最后实现/USBInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/06Review/src/day03/demo09_笔记本案例最后实现/USBInterface.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Demo06Review/src/day03/demo09_笔记本案例最后实现/Watch.java" beforeDir="false" afterPath="$PROJECT_DIR$/06Review/src/day03/demo09_笔记本案例最后实现/Watch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Demo06Review/src/day03/demo09_笔记本案例最后实现/YinXiang.java" beforeDir="false" afterPath="$PROJECT_DIR$/06Review/src/day03/demo09_笔记本案例最后实现/YinXiang.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Demo06Review/src/day04/ZongJie.java" beforeDir="false" afterPath="$PROJECT_DIR$/06Review/src/day04/ZongJie.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Demo06Review/src/day04/demo00_反馈和复习/TestDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/06Review/src/day04/demo00_反馈和复习/TestDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Demo06Review/src/day04/demo01_static的介绍/Chinese.java" beforeDir="false" afterPath="$PROJECT_DIR$/06Review/src/day04/demo01_static的介绍/Chinese.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Demo06Review/src/day04/demo01_static的介绍/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/06Review/src/day04/demo01_static的介绍/Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Demo06Review/src/day04/demo01_static的介绍/StaticDemo01.java" beforeDir="false" afterPath="$PROJECT_DIR$/06Review/src/day04/demo01_static的介绍/StaticDemo01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Demo06Review/src/day04/demo02_final关键字的使用/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/06Review/src/day04/demo02_final关键字的使用/Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Demo06Review/src/day04/demo02_final关键字的使用/FinalDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/06Review/src/day04/demo02_final关键字的使用/FinalDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Demo06Review/src/day04/demo02_final关键字的使用/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/06Review/src/day04/demo02_final关键字的使用/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Demo06Review/src/day04/demo03_包的作用/PackaageDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/06Review/src/day04/demo03_包的作用/PackaageDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Demo06Review/src/day05/ZongJie.java" beforeDir="false" afterPath="$PROJECT_DIR$/06Review/src/day05/ZongJie.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Demo06Review/src/day07/demo01_反馈和回顾/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/06Review/src/day07/demo01_反馈和回顾/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Demo06Review/src/day07/demo01_反馈和回顾/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/06Review/src/day07/demo01_反馈和回顾/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Demo06Review/src/day07/demo02_集合/CollectionDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/06Review/src/day07/demo02_集合/CollectionDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Demo06Review/src/day07/demo03_迭代器Iterator/IteratorDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/06Review/src/day07/demo03_迭代器Iterator/IteratorDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Demo06Review/src/day07/demo04_并发修改异常/ConcurrentModificationExceptionDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/06Review/src/day07/demo04_并发修改异常/ConcurrentModificationExceptionDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Demo06Review/src/day07/demo05_增强for循环/ForeachDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/06Review/src/day07/demo05_增强for循环/ForeachDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Demo06Review/src/day07/demo06_泛型的介绍/GenericDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/06Review/src/day07/demo06_泛型的介绍/GenericDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Demo06Review/src/day07/demo07_泛型中E的含义/GenericDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/06Review/src/day07/demo07_泛型中E的含义/GenericDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Demo06Review/src/day07/demo07_泛型中E的含义/MyInter.java" beforeDir="false" afterPath="$PROJECT_DIR$/06Review/src/day07/demo07_泛型中E的含义/MyInter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Demo06Review/src/day07/demo07_泛型中E的含义/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/06Review/src/day07/demo07_泛型中E的含义/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Demo06Review/src/day08/demo00_反馈和回顾/TestDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/06Review/src/day08/demo00_反馈和回顾/TestDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Demo06Review/src/day08/demo01_数据结构/DateConstructorDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/06Review/src/day08/demo01_数据结构/DateConstructorDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Demo06Review/src/day08/demo02_List接口的特点和实现类/ListDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/06Review/src/day08/demo02_List接口的特点和实现类/ListDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Demo06Review/src/day08/demo03_Set接口的特点和实现类/SetDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/06Review/src/day08/demo03_Set接口的特点和实现类/SetDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Demo06Review/src/day08/demo04_对象的哈希值/HashCodeDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/06Review/src/day08/demo04_对象的哈希值/HashCodeDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Demo06Review/src/day08/demo04_对象的哈希值/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/06Review/src/day08/demo04_对象的哈希值/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Demo06Review/src/day08/demo05_String对象的哈希值/StringHashCodeDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/06Review/src/day08/demo05_String对象的哈希值/StringHashCodeDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Demo06Review/src/day08/demo06_哈希值结构/HashCodeDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/06Review/src/day08/demo06_哈希值结构/HashCodeDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Demo06Review/src/day08/demo07_HashSet存储自定义元素/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/06Review/src/day08/demo07_HashSet存储自定义元素/Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Demo06Review/src/day08/demo07_HashSet存储自定义元素/HashSetDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/06Review/src/day08/demo07_HashSet存储自定义元素/HashSetDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Demo06Review/src/day08/demo08_contains方法的原理/contains.java" beforeDir="false" afterPath="$PROJECT_DIR$/06Review/src/day08/demo08_contains方法的原理/contains.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Demo06Review/src/day09/demo01_反馈/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/06Review/src/day09/demo01_反馈/Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Demo06Review/src/day09/demo01_反馈/TestDog.java" beforeDir="false" afterPath="$PROJECT_DIR$/06Review/src/day09/demo01_反馈/TestDog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Demo06Review/src/day09/demo02_map集合的特点/MapDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/06Review/src/day09/demo02_map集合的特点/MapDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo06Review/Day02/demo00_反馈和回顾/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo06Review/Day02/demo00_反馈和回顾/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo06Review/Day02/demo00_反馈和回顾/TestDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo06Review/Day02/demo01_复习子父类/ExtendDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo06Review/Day02/demo01_复习子父类/Fu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo06Review/Day02/demo01_复习子父类/Zi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo06Review/Day02/demo02_继承中方法的重写/ExtendMethodOverrideDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo06Review/Day02/demo02_继承中方法的重写/Fu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo06Review/Day02/demo02_继承中方法的重写/Zi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo06Review/Day02/demo03_方法重写的引用_手机案例/AndroidPhone.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo06Review/Day02/demo03_方法重写的引用_手机案例/Phone.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo06Review/Day02/demo03_方法重写的引用_手机案例/TestDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo06Review/Day02/demo04_总结this和super/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo06Review/Day02/demo04_总结this和super/ExtendsDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo06Review/Day02/demo04_总结this和super/Fu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo06Review/Day02/demo04_总结this和super/Pig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo06Review/Day02/demo04_总结this和super/Zi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo06Review/Day02/demo05_抽象类的介绍/AbstractClassDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo06Review/Day02/demo05_抽象类的介绍/BanTeacher.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo06Review/Day02/demo05_抽象类的介绍/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo06Review/Day02/demo05_抽象类的介绍/HelpTeacher.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo06Review/Day02/demo05_抽象类的介绍/Teacher.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo06Review/Day02/demo06_案例实现/Android.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo06Review/Day02/demo06_案例实现/Developer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo06Review/Day02/demo06_案例实现/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo06Review/Day02/demo06_案例实现/HardRepair.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo06Review/Day02/demo06_案例实现/JavaEE.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo06Review/Day02/demo06_案例实现/NetRepair.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo06Review/Day02/demo06_案例实现/Repair.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo06Review/Day02/demo06_案例实现/TestDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo06Review/Day02/dmeo07_案例补充/Plane.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo06Review/Day02/dmeo07_案例补充/Soldier.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo06Review/Day02/dmeo07_案例补充/Tank.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo06Review/Day02/dmeo07_案例补充/TestDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo06Review/META-INF/Demo06Review.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo06Review/day03/demo00_复习/A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo06Review/day03/demo00_复习/B.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo06Review/day03/demo00_复习/C.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo06Review/day03/demo00_复习/TestDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo06Review/day03/demo01_接口的介绍/InterfaceDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo06Review/day03/demo01_接口的介绍/MyInter01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo06Review/day03/demo01_接口的介绍/MyInter02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo06Review/day03/demo01_接口的介绍/MyInter03.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo06Review/day03/demo01_接口的介绍/MyclassA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo06Review/day03/demo01_接口的介绍/MyclassB.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo06Review/day03/demo01_接口的介绍/MyclassC.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo06Review/day03/demo03_接口和抽象类的区别/AbstractDog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo06Review/day03/demo03_接口和抽象类的区别/AbstractInterfaceDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo06Review/day03/demo03_接口和抽象类的区别/AbstractPig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo06Review/day03/demo03_接口和抽象类的区别/SuperDog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo06Review/day03/demo03_接口和抽象类的区别/SuperPig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo06Review/day03/demo04_多态/DuoTaiDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo06Review/day03/demo05_多态中的注意事项/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo06Review/day03/demo05_多态中的注意事项/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo06Review/day03/demo05_多态中的注意事项/DuoTaiDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo06Review/day03/demo06_多态的好处和弊端/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo06Review/day03/demo06_多态的好处和弊端/Cat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo06Review/day03/demo06_多态的好处和弊端/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo06Review/day03/demo06_多态的好处和弊端/DuoTaiDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo06Review/day03/demo06_多态的好处和弊端/Pig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo06Review/day03/demo06_多态的好处和弊端/Tiger.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo06Review/day03/demo07_向上向下转型/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo06Review/day03/demo07_向上向下转型/Cat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo06Review/day03/demo07_向上向下转型/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo06Review/day03/demo07_向上向下转型/DuoTaiDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo06Review/day03/demo08_笔记本案例初步实现/Computer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo06Review/day03/demo08_笔记本案例初步实现/ComputerDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo06Review/day03/demo08_笔记本案例初步实现/Mouse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo06Review/day03/demo09_笔记本案例最后实现/Computer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo06Review/day03/demo09_笔记本案例最后实现/ComputerDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo06Review/day03/demo09_笔记本案例最后实现/KeyBoard.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo06Review/day03/demo09_笔记本案例最后实现/Mouse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo06Review/day03/demo09_笔记本案例最后实现/USBInterface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo06Review/day03/demo09_笔记本案例最后实现/Watch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo06Review/day03/demo09_笔记本案例最后实现/YinXiang.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo06Review/day04/ZongJie.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo06Review/day04/demo00_反馈和复习/TestDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo06Review/day04/demo01_static的介绍/Chinese.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo06Review/day04/demo01_static的介绍/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo06Review/day04/demo01_static的介绍/StaticDemo01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo06Review/day04/demo02_final关键字的使用/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo06Review/day04/demo02_final关键字的使用/FinalDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo06Review/day04/demo02_final关键字的使用/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo06Review/day04/demo03_包的作用/PackaageDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo06Review/day05/ZongJie.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo06Review/day07/demo01_反馈和回顾/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo06Review/day07/demo01_反馈和回顾/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo06Review/day07/demo02_集合/CollectionDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo06Review/day07/demo03_迭代器Iterator/IteratorDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo06Review/day07/demo04_并发修改异常/ConcurrentModificationExceptionDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo06Review/day07/demo05_增强for循环/ForeachDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo06Review/day07/demo06_泛型的介绍/GenericDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo06Review/day07/demo07_泛型中E的含义/GenericDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo06Review/day07/demo07_泛型中E的含义/MyInter$MyClass1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo06Review/day07/demo07_泛型中E的含义/MyInter$MyClass2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo06Review/day07/demo07_泛型中E的含义/MyInter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo06Review/day07/demo07_泛型中E的含义/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo06Review/day08/demo00_反馈和回顾/TestDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo06Review/day08/demo01_数据结构/DateConstructorDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo06Review/day08/demo02_List接口的特点和实现类/ListDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo06Review/day08/demo03_Set接口的特点和实现类/SetDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo06Review/day08/demo04_对象的哈希值/HashCodeDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo06Review/day08/demo04_对象的哈希值/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo06Review/day08/demo05_String对象的哈希值/StringHashCodeDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo06Review/day08/demo06_哈希值结构/HashCodeDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo06Review/day08/demo07_HashSet存储自定义元素/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Demo06Review/day08/demo07_HashSet存储自定义元素/HashSetDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HeiMa/Demo1Lambda/Demo01Runnable$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HeiMa/Demo1Lambda/Demo01Runnable$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HeiMa/Demo1Lambda/Demo01Runnable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HeiMa/Demo1Lambda/Demo02Lambda$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HeiMa/Demo1Lambda/Demo02Lambda.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HeiMa/Demo1Lambda/RunnableImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HeiMa/jihe/Demo01Collection.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ListAndSet/META-INF/ListAndSet.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ListAndSet/demo02/Set/Demo2LinkedAndList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ListAndSet/demo02/Set/Demo3Set.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ListAndSet/demo02/Set/Demo4HashCodeSetSaveString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ListAndSet/demo02/Set/Demo5LinkedHashSet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ListAndSet/demo02/Set/person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ListAndSet/demo03/hashCode/Demo01HashCode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ListAndSet/demo03/hashCode/Demo02HashSetSaveString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ListAndSet/demo03/hashCode/person.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -167,7 +178,7 @@
     </replaceStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -233,17 +244,18 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="657" />
-    <option name="y" value="57" />
-    <option name="width" value="1057" />
-    <option name="height" value="999" />
+    <option name="x" value="258" />
+    <option name="y" value="234" />
+    <option name="width" value="1456" />
+    <option name="height" value="822" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -260,14 +272,14 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../spring" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -417,21 +429,23 @@
       <workItem from="1568856675104" duration="14075000" />
       <workItem from="1571967323433" duration="158000" />
       <workItem from="1571967515936" duration="666000" />
+      <workItem from="1571989298133" duration="1130000" />
+      <workItem from="1572140021152" duration="39000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="200605000" />
+    <option name="totallyTimeSpent" value="201774000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="657" y="57" width="1057" height="999" extended-state="0" />
+    <frame x="258" y="234" width="1456" height="822" extended-state="0" />
     <layout>
       <window_info id="Designer" order="0" />
       <window_info id="UI Designer" order="1" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" sideWeight="0.50201887" side_tool="true" weight="0.21272494" />
       <window_info id="Image Layers" order="4" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" sideWeight="0.49798116" visible="true" weight="0.3881645" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" sideWeight="0.49798116" visible="true" weight="0.13968481" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="1" />

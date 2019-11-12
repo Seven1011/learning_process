@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE configuration
+        PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-config.dtd">
+<configuration>
+
+    <properties resource="db.properties"/>
+    
+    <!--允许懒加载-->
+    <settings>
+        <setting name="lazyLoadingEnabled" value="true"/>
+    </settings>
+
+    <typeAliases>
+        <!--<typeAlias type="com.gyf.model.User" alias="user"></typeAlias>-->
+
+        <!--指定包名，别名就是类名，第一个小写 User 别名就是user-->
+       <package name="com.seven.model"/>
+        <package name="com.seven.vo"/>
+    </typeAliases>
+
+    <!-- 配置mybatis的环境信息 -->
+    <environments default="development">
+        <environment id="development">
+            <!-- 配置JDBC事务控制，由mybatis进行管理 -->
+            <transactionManager type="JDBC"></transactionManager>
+            <!-- 配置数据源，采用dbcp连接池 -->
+            <dataSource type="POOLED">
+                <property name="driver" value="${driver}"/>
+                <property name="url" value="${url}"/>
+                <property name="username" value="${username}"/>
+                <property name="password" value="${password}"/>
+            </dataSource>
+        </environment>
+    </environments>
+
+    <!--告诉mybatis加载映射文件-->
+    <mappers>
+        <mapper resource="com/seven/sqlmap/User.xml"></mapper>
+        <mapper resource="com/seven/mapper/UserMapper.xml"></mapper>
+        <mapper resource="com/seven/mapper/OrderMapper.xml"></mapper>
+    </mappers>
+</configuration>

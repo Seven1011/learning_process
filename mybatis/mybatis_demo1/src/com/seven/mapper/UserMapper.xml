@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.seven.mapper.UserMapper">
+
+    <resultMap  type="user" id="userAndItemRslMap">
+
+        <!-- 往orders的模型匹配数据-->
+        <id column="id" property="id"/>
+        <result column="username" property="username"/>
+        <result column="password" property="password"/>
+
+
+        <!-- 1.user的orderList属性-->
+        <collection property="ordersList" ofType="orders">
+            <id column="orders_id" property="id"/>
+            <id column="order_id" property="id"></id>
+            <result column="number" property="number"/>
+            <result column="createtime" property="createtime"/>
+            <result column="note" property="note"/>
+
+        <!-- 2.Orders的orderdetails属性-->
+        <collection property="orderDetails" ofType="OrderDetail">
+            <id column="detail_id" property="id"/>
+            <result column="items_id" property="itemsId"/>
+            <result column="items_num" property="itemsNum"/>
+
+            <!-- 3.Orderdetail的items属性-->
+            <association property="items" >
+                <id column="items_id"  javaType="int" property="id"/>
+                <result column="name"  javaType="String" property="name"/>
+                <result column="price"  javaType="String"  property="price"/>
+                <result column="detail"  javaType="String" property="detail"/>
+            </association>
+        </collection>
+        </collection>
+
+    </resultMap>
+    <select id="findUserAndItemRslMap" resultMap="userAndItemRslMap">
+           SELECT
+                    u.id,
+                    u.username,
+                    u.address,
+                    o.id order_id,
+                    o.number,
+                    o.createtime,
+                    o.note,
+                    od.id detail_id,
+                    od.items_id,
+                    od.items_num,
+                    it.name,
+                    it.price,
+                    it.detail
+                FROM
+                    user u,
+                    orders o,
+                    orderdetail od,
+                  items it
+                WHERE
+                    o.user_id = u.id
+                  AND o.id = od.orders_id
+                  AND od.items_id = it.id
+    </select>
+
+
+
+
+
+    <select id="findUserById" parameterType="int"  resultType="user">
+        select * from user where id = #{?}
+    </select>
+
+    <insert id="save" parameterType="user">
+      INSERT INTO user (username,sex,birthday,address)
+        VALUE (#{username},#{sex},#{birthday},#{address})
+   </insert>
+
+    <select id="findUserList" parameterType="userQueryVo" resultType="user">
+        select *from user where sex=#{user.sex} and username like '%${user.username}%'
+    </select>
+
+
+</mapper>

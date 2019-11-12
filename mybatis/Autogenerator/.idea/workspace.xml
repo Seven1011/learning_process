@@ -1,0 +1,581 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="94253f30-f71f-4376-9833-59b289d62022" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/lib.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/lib__2_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Autogenerator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/mybatis-generator-core-1.3.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/mysql-connector-java-5.1.7-bin.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Autogenerator/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Autogenerator/generator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/seven/backoffice/mapper/ItemsMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/seven/backoffice/mapper/ItemsMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/seven/backoffice/mapper/OrderDetailMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/seven/backoffice/mapper/OrderDetailMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/seven/backoffice/mapper/OrdersMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/seven/backoffice/mapper/OrdersMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/seven/backoffice/mapper/UserMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/seven/backoffice/mapper/UserMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/seven/backoffice/model/Items.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/seven/backoffice/model/ItemsExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/seven/backoffice/model/OrderDetail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/seven/backoffice/model/OrderDetailExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/seven/backoffice/model/Orders.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/seven/backoffice/model/OrdersExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/seven/backoffice/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/seven/backoffice/model/UserExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/generator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis_demo1/.idea/libraries/lib.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis_demo1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis_demo1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis_demo1/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis_demo1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis_demo1/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis_demo1/lib/ant-1.10.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis_demo1/lib/ant-launcher-1.10.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis_demo1/lib/asm-7.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis_demo1/lib/cglib-3.2.10.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis_demo1/lib/commons-logging-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis_demo1/lib/javassist-3.24.1-GA.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis_demo1/lib/log4j-1.2.17.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis_demo1/lib/log4j-api-2.11.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis_demo1/lib/log4j-core-2.11.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis_demo1/lib/mybatis-3.5.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis_demo1/lib/mysql-connector-java-5.1.7-bin.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis_demo1/lib/ognl-3.2.10.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis_demo1/lib/slf4j-api-1.7.26.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis_demo1/lib/slf4j-log4j12-1.7.26.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis_demo1/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis_demo1/mybatis_demo1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis_demo1/out/production/mybatis_demo1/META-INF/mybatis_demo1.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis_demo1/out/production/mybatis_demo1/SqlMapConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis_demo1/out/production/mybatis_demo1/com/seven/mapper/OrderMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis_demo1/out/production/mybatis_demo1/com/seven/mapper/OrderMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis_demo1/out/production/mybatis_demo1/com/seven/mapper/UserMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis_demo1/out/production/mybatis_demo1/com/seven/mapper/UserMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis_demo1/out/production/mybatis_demo1/com/seven/model/Orders.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis_demo1/out/production/mybatis_demo1/com/seven/model/OrdersExt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis_demo1/out/production/mybatis_demo1/com/seven/model/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis_demo1/out/production/mybatis_demo1/com/seven/sqlmap/User.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis_demo1/out/production/mybatis_demo1/com/seven/test/Demo01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis_demo1/out/production/mybatis_demo1/com/seven/test/Demo02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis_demo1/out/production/mybatis_demo1/com/seven/test/Demo03.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis_demo1/out/production/mybatis_demo1/com/seven/vo/UserQueryVo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis_demo1/out/production/mybatis_demo1/db.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis_demo1/src/SqlMapConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis_demo1/src/com/seven/mapper/OrderMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis_demo1/src/com/seven/mapper/OrderMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis_demo1/src/com/seven/mapper/UserMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis_demo1/src/com/seven/mapper/UserMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis_demo1/src/com/seven/model/OrderDetail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis_demo1/src/com/seven/model/Orders.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis_demo1/src/com/seven/model/OrdersExt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis_demo1/src/com/seven/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis_demo1/src/com/seven/sqlmap/User.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis_demo1/src/com/seven/test/Demo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis_demo1/src/com/seven/test/Demo02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis_demo1/src/com/seven/test/Demo03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis_demo1/src/com/seven/vo/UserQueryVo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis_demo1/src/db.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javalearn/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../javalearn/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javalearn/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../javalearn/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javalearn/out/production/Demo06Review/Day02/demo00_反馈和回顾/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javalearn/out/production/Demo06Review/Day02/demo00_反馈和回顾/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javalearn/out/production/Demo06Review/Day02/demo00_反馈和回顾/TestDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javalearn/out/production/Demo06Review/Day02/demo01_复习子父类/ExtendDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javalearn/out/production/Demo06Review/Day02/demo01_复习子父类/Fu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javalearn/out/production/Demo06Review/Day02/demo01_复习子父类/Zi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javalearn/out/production/Demo06Review/Day02/demo02_继承中方法的重写/ExtendMethodOverrideDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javalearn/out/production/Demo06Review/Day02/demo02_继承中方法的重写/Fu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javalearn/out/production/Demo06Review/Day02/demo02_继承中方法的重写/Zi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javalearn/out/production/Demo06Review/Day02/demo03_方法重写的引用_手机案例/AndroidPhone.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javalearn/out/production/Demo06Review/Day02/demo03_方法重写的引用_手机案例/Phone.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javalearn/out/production/Demo06Review/Day02/demo03_方法重写的引用_手机案例/TestDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javalearn/out/production/Demo06Review/Day02/demo04_总结this和super/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javalearn/out/production/Demo06Review/Day02/demo04_总结this和super/ExtendsDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javalearn/out/production/Demo06Review/Day02/demo04_总结this和super/Fu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javalearn/out/production/Demo06Review/Day02/demo04_总结this和super/Pig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javalearn/out/production/Demo06Review/Day02/demo04_总结this和super/Zi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javalearn/out/production/Demo06Review/Day02/demo05_抽象类的介绍/AbstractClassDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javalearn/out/production/Demo06Review/Day02/demo05_抽象类的介绍/BanTeacher.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javalearn/out/production/Demo06Review/Day02/demo05_抽象类的介绍/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javalearn/out/production/Demo06Review/Day02/demo05_抽象类的介绍/HelpTeacher.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javalearn/out/production/Demo06Review/Day02/demo05_抽象类的介绍/Teacher.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javalearn/out/production/Demo06Review/Day02/demo06_案例实现/Android.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javalearn/out/production/Demo06Review/Day02/demo06_案例实现/Developer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javalearn/out/production/Demo06Review/Day02/demo06_案例实现/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javalearn/out/production/Demo06Review/Day02/demo06_案例实现/HardRepair.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javalearn/out/production/Demo06Review/Day02/demo06_案例实现/JavaEE.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javalearn/out/production/Demo06Review/Day02/demo06_案例实现/NetRepair.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javalearn/out/production/Demo06Review/Day02/demo06_案例实现/Repair.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javalearn/out/production/Demo06Review/Day02/demo06_案例实现/TestDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javalearn/out/production/Demo06Review/Day02/dmeo07_案例补充/Plane.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javalearn/out/production/Demo06Review/Day02/dmeo07_案例补充/Soldier.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javalearn/out/production/Demo06Review/Day02/dmeo07_案例补充/Tank.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javalearn/out/production/Demo06Review/Day02/dmeo07_案例补充/TestDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javalearn/out/production/Demo06Review/META-INF/Demo06Review.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javalearn/out/production/Demo06Review/day03/demo00_复习/A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javalearn/out/production/Demo06Review/day03/demo00_复习/B.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javalearn/out/production/Demo06Review/day03/demo00_复习/C.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javalearn/out/production/Demo06Review/day03/demo00_复习/TestDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javalearn/out/production/Demo06Review/day03/demo01_接口的介绍/InterfaceDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javalearn/out/production/Demo06Review/day03/demo01_接口的介绍/MyInter01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javalearn/out/production/Demo06Review/day03/demo01_接口的介绍/MyInter02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javalearn/out/production/Demo06Review/day03/demo01_接口的介绍/MyInter03.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javalearn/out/production/Demo06Review/day03/demo01_接口的介绍/MyclassA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javalearn/out/production/Demo06Review/day03/demo01_接口的介绍/MyclassB.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javalearn/out/production/Demo06Review/day03/demo01_接口的介绍/MyclassC.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javalearn/out/production/Demo06Review/day03/demo03_接口和抽象类的区别/AbstractDog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javalearn/out/production/Demo06Review/day03/demo03_接口和抽象类的区别/AbstractInterfaceDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javalearn/out/production/Demo06Review/day03/demo03_接口和抽象类的区别/AbstractPig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javalearn/out/production/Demo06Review/day03/demo03_接口和抽象类的区别/SuperDog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javalearn/out/production/Demo06Review/day03/demo03_接口和抽象类的区别/SuperPig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javalearn/out/production/Demo06Review/day03/demo04_多态/DuoTaiDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javalearn/out/production/Demo06Review/day03/demo05_多态中的注意事项/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javalearn/out/production/Demo06Review/day03/demo05_多态中的注意事项/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javalearn/out/production/Demo06Review/day03/demo05_多态中的注意事项/DuoTaiDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javalearn/out/production/Demo06Review/day03/demo06_多态的好处和弊端/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javalearn/out/production/Demo06Review/day03/demo06_多态的好处和弊端/Cat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javalearn/out/production/Demo06Review/day03/demo06_多态的好处和弊端/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javalearn/out/production/Demo06Review/day03/demo06_多态的好处和弊端/DuoTaiDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javalearn/out/production/Demo06Review/day03/demo06_多态的好处和弊端/Pig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javalearn/out/production/Demo06Review/day03/demo06_多态的好处和弊端/Tiger.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javalearn/out/production/Demo06Review/day03/demo07_向上向下转型/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javalearn/out/production/Demo06Review/day03/demo07_向上向下转型/Cat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javalearn/out/production/Demo06Review/day03/demo07_向上向下转型/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javalearn/out/production/Demo06Review/day03/demo07_向上向下转型/DuoTaiDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javalearn/out/production/Demo06Review/day03/demo08_笔记本案例初步实现/Computer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javalearn/out/production/Demo06Review/day03/demo08_笔记本案例初步实现/ComputerDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javalearn/out/production/Demo06Review/day03/demo08_笔记本案例初步实现/Mouse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javalearn/out/production/Demo06Review/day03/demo09_笔记本案例最后实现/Computer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javalearn/out/production/Demo06Review/day03/demo09_笔记本案例最后实现/ComputerDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javalearn/out/production/Demo06Review/day03/demo09_笔记本案例最后实现/KeyBoard.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javalearn/out/production/Demo06Review/day03/demo09_笔记本案例最后实现/Mouse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javalearn/out/production/Demo06Review/day03/demo09_笔记本案例最后实现/USBInterface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javalearn/out/production/Demo06Review/day03/demo09_笔记本案例最后实现/Watch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javalearn/out/production/Demo06Review/day03/demo09_笔记本案例最后实现/YinXiang.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javalearn/out/production/Demo06Review/day04/ZongJie.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javalearn/out/production/Demo06Review/day04/demo00_反馈和复习/TestDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javalearn/out/production/Demo06Review/day04/demo01_static的介绍/Chinese.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javalearn/out/production/Demo06Review/day04/demo01_static的介绍/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javalearn/out/production/Demo06Review/day04/demo01_static的介绍/StaticDemo01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javalearn/out/production/Demo06Review/day04/demo02_final关键字的使用/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javalearn/out/production/Demo06Review/day04/demo02_final关键字的使用/FinalDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javalearn/out/production/Demo06Review/day04/demo02_final关键字的使用/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javalearn/out/production/Demo06Review/day04/demo03_包的作用/PackaageDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javalearn/out/production/Demo06Review/day05/ZongJie.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javalearn/out/production/Demo06Review/day07/demo01_反馈和回顾/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javalearn/out/production/Demo06Review/day07/demo01_反馈和回顾/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javalearn/out/production/Demo06Review/day07/demo02_集合/CollectionDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javalearn/out/production/Demo06Review/day07/demo03_迭代器Iterator/IteratorDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javalearn/out/production/Demo06Review/day07/demo04_并发修改异常/ConcurrentModificationExceptionDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javalearn/out/production/Demo06Review/day07/demo05_增强for循环/ForeachDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javalearn/out/production/Demo06Review/day07/demo06_泛型的介绍/GenericDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javalearn/out/production/Demo06Review/day07/demo07_泛型中E的含义/GenericDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javalearn/out/production/Demo06Review/day07/demo07_泛型中E的含义/MyInter$MyClass1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javalearn/out/production/Demo06Review/day07/demo07_泛型中E的含义/MyInter$MyClass2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javalearn/out/production/Demo06Review/day07/demo07_泛型中E的含义/MyInter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javalearn/out/production/Demo06Review/day07/demo07_泛型中E的含义/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javalearn/out/production/Demo06Review/day08/demo00_反馈和回顾/TestDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javalearn/out/production/Demo06Review/day08/demo01_数据结构/DateConstructorDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javalearn/out/production/Demo06Review/day08/demo02_List接口的特点和实现类/ListDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javalearn/out/production/Demo06Review/day08/demo03_Set接口的特点和实现类/SetDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javalearn/out/production/Demo06Review/day08/demo04_对象的哈希值/HashCodeDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javalearn/out/production/Demo06Review/day08/demo04_对象的哈希值/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javalearn/out/production/Demo06Review/day08/demo05_String对象的哈希值/StringHashCodeDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javalearn/out/production/Demo06Review/day08/demo06_哈希值结构/HashCodeDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javalearn/out/production/Demo06Review/day08/demo07_HashSet存储自定义元素/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javalearn/out/production/Demo06Review/day08/demo07_HashSet存储自定义元素/HashSetDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javalearn/out/production/HeiMa/Demo1Lambda/Demo01Runnable$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javalearn/out/production/HeiMa/Demo1Lambda/Demo01Runnable$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javalearn/out/production/HeiMa/Demo1Lambda/Demo01Runnable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javalearn/out/production/HeiMa/Demo1Lambda/Demo02Lambda$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javalearn/out/production/HeiMa/Demo1Lambda/Demo02Lambda.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javalearn/out/production/HeiMa/Demo1Lambda/RunnableImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javalearn/out/production/HeiMa/jihe/Demo01Collection.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javalearn/out/production/ListAndSet/META-INF/ListAndSet.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javalearn/out/production/ListAndSet/demo02/Set/Demo2LinkedAndList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javalearn/out/production/ListAndSet/demo02/Set/Demo3Set.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javalearn/out/production/ListAndSet/demo02/Set/Demo4HashCodeSetSaveString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javalearn/out/production/ListAndSet/demo02/Set/Demo5LinkedHashSet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javalearn/out/production/ListAndSet/demo02/Set/person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javalearn/out/production/ListAndSet/demo03/hashCode/Demo01HashCode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javalearn/out/production/ListAndSet/demo03/hashCode/Demo02HashSetSaveString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javalearn/out/production/ListAndSet/demo03/hashCode/person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/.idea/libraries/Spring_4_3_18_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/.idea/libraries/Spring_Web_Services_2_0_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../spring/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/lib/aopalliance-1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/lib/commons-logging-1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/lib/spring-aop-4.3.18.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/lib/spring-aspects-4.3.18.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/lib/spring-beans-4.3.18.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/lib/spring-context-4.3.18.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/lib/spring-context-support-4.3.18.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/lib/spring-core-4.3.18.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/lib/spring-expression-4.3.18.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/lib/spring-instrument-4.3.18.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/lib/spring-instrument-tomcat-4.3.18.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/lib/spring-jdbc-4.3.18.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/lib/spring-jms-4.3.18.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/lib/spring-messaging-4.3.18.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/lib/spring-orm-4.3.18.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/lib/spring-oxm-4.3.18.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/lib/spring-test-4.3.18.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/lib/spring-tx-4.3.18.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/lib/spring-ws.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/out/production/spring/META-INF/spring.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/out/production/spring/beans.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/out/production/spring/beans2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/out/production/spring/beans3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/out/production/spring/com/seven/service/UserService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/out/production/spring/com/seven/service/UserServiceFactory1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/out/production/spring/com/seven/service/UserServiceFactory2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/out/production/spring/com/seven/service/UserServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/out/production/spring/com/seven/test/Lesson1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/out/production/spring/com/seven/test/Lesson2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/out/production/spring/com/seven/test/Lesson3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/spring.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/src/beans.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/src/beans2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/src/beans3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/src/com/seven/service/UserService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/src/com/seven/service/UserServiceFactory1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/src/com/seven/service/UserServiceFactory2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/src/com/seven/service/UserServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/src/com/seven/test/Lesson1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/src/com/seven/test/Lesson2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring/src/com/seven/test/Lesson3.java" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/seven/backoffice/mapper/ItemsMapper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="8" column="7" lean-forward="true" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/generator.xml" />
+        <option value="$PROJECT_DIR$/src/Main.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/libraries/lib.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/lib__2_.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-22" />
+    <option name="y" value="126" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Autogenerator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Autogenerator" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Autogenerator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Autogenerator" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Autogenerator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Autogenerator" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Autogenerator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Autogenerator" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="backoffice" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Autogenerator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Autogenerator" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="backoffice" type="462c0819:PsiDirectoryNode" />
+              <item name="mapper" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\code\java\mybatis\Autogenerator\lib" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Autogenerator" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="94253f30-f71f-4376-9833-59b289d62022" name="Default Changelist" comment="" />
+      <created>1573199506164</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573199506164</updated>
+      <workItem from="1573199508755" duration="1864000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1864000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Designer" order="0" />
+      <window_info id="UI Designer" order="1" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Image Layers" order="4" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.25" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="1" />
+      <window_info anchor="bottom" id="Terminal" order="2" />
+      <window_info anchor="bottom" id="Database Changes" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="5" />
+      <window_info anchor="bottom" id="Find" order="6" />
+      <window_info anchor="bottom" id="Run" order="7" weight="0.061822128" />
+      <window_info anchor="bottom" id="Debug" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" order="10" />
+      <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="12" />
+      <window_info anchor="right" id="Theme Preview" order="0" />
+      <window_info anchor="right" id="Database" order="1" />
+      <window_info anchor="right" id="Capture Analysis" order="2" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Palette" order="5" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Designer" order="0" />
+      <window_info id="UI Designer" order="1" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Image Layers" order="4" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.25" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="1" />
+      <window_info anchor="bottom" id="Terminal" order="2" />
+      <window_info anchor="bottom" id="Database Changes" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="5" />
+      <window_info anchor="bottom" id="Find" order="6" />
+      <window_info anchor="bottom" id="Run" order="7" visible="true" weight="0.061822128" />
+      <window_info anchor="bottom" id="Debug" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" order="10" />
+      <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="12" />
+      <window_info anchor="right" id="Theme Preview" order="0" />
+      <window_info anchor="right" id="Database" order="1" />
+      <window_info anchor="right" id="Capture Analysis" order="2" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Palette" order="5" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/generator.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="19" column="12" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#424#432#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/seven/backoffice/model/Items.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/seven/backoffice/model/Orders.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/seven/backoffice/mapper/ItemsMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-396" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/seven/backoffice/mapper/UserMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-440">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/seven/backoffice/mapper/OrderDetailMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/seven/backoffice/mapper/OrdersMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="366">
+          <caret line="78" column="29" selection-start-line="78" selection-start-column="29" selection-end-line="78" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/seven/backoffice/mapper/UserMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4201">
+          <caret line="57" column="35" lean-forward="true" selection-start-line="57" selection-start-column="35" selection-end-line="57" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/seven/backoffice/mapper/OrdersMapper.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/seven/backoffice/model/OrdersExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2618">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/seven/backoffice/model/OrderDetail.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/seven/backoffice/mapper/ItemsMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="7" lean-forward="true" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
